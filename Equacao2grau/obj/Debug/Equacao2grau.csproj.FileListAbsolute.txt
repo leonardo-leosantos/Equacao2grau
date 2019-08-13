@@ -1,0 +1,20 @@
+C:\Projetos\Equacao2grau\Equacao2grau\bin\Debug\Equacao2grau.exe.config
+C:\Projetos\Equacao2grau\Equacao2grau\bin\Debug\Equacao2grau.exe
+C:\Projetos\Equacao2grau\Equacao2grau\bin\Debug\Equacao2grau.pdb
+C:\Projetos\Equacao2grau\Equacao2grau\obj\Debug\Equacao2grau.csprojAssemblyReference.cache
+C:\Projetos\Equacao2grau\Equacao2grau\obj\Debug\Equacao2grau.Form1.resources
+C:\Projetos\Equacao2grau\Equacao2grau\obj\Debug\Equacao2grau.Properties.Resources.resources
+C:\Projetos\Equacao2grau\Equacao2grau\obj\Debug\Equacao2grau.csproj.GenerateResource.cache
+C:\Projetos\Equacao2grau\Equacao2grau\obj\Debug\Equacao2grau.csproj.CoreCompileInputs.cache
+C:\Projetos\Equacao2grau\Equacao2grau\obj\Debug\Equacao2grau.exe
+C:\Projetos\Equacao2grau\Equacao2grau\obj\Debug\Equacao2grau.pdb
+C:\Estágio\Projetos - PMESP\Equacao2grau\Equacao2grau\bin\Debug\Equacao2grau.exe.config
+C:\Estágio\Projetos - PMESP\Equacao2grau\Equacao2grau\bin\Debug\Equacao2grau.exe
+C:\Estágio\Projetos - PMESP\Equacao2grau\Equacao2grau\bin\Debug\Equacao2grau.pdb
+C:\Estágio\Projetos - PMESP\Equacao2grau\Equacao2grau\obj\Debug\Equacao2grau.csprojAssemblyReference.cache
+C:\Estágio\Projetos - PMESP\Equacao2grau\Equacao2grau\obj\Debug\Equacao2grau.Form1.resources
+C:\Estágio\Projetos - PMESP\Equacao2grau\Equacao2grau\obj\Debug\Equacao2grau.Properties.Resources.resources
+C:\Estágio\Projetos - PMESP\Equacao2grau\Equacao2grau\obj\Debug\Equacao2grau.csproj.GenerateResource.cache
+C:\Estágio\Projetos - PMESP\Equacao2grau\Equacao2grau\obj\Debug\Equacao2grau.csproj.CoreCompileInputs.cache
+C:\Estágio\Projetos - PMESP\Equacao2grau\Equacao2grau\obj\Debug\Equacao2grau.exe
+C:\Estágio\Projetos - PMESP\Equacao2grau\Equacao2grau\obj\Debug\Equacao2grau.pdb
